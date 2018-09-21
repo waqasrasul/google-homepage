@@ -1,0 +1,40 @@
+.search-bar {
+    border: none;
+    margin: 0px;
+    height: 34px;
+}
+
+.search-form {
+    height: 34px !important;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: none;
+    background-color:transparent;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    opacity: .85;
+    text-decoration: underline;
+}
+
+a, i {
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}

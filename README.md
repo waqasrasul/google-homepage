@@ -1,0 +1,1 @@
+The current project is my first HTML assignment from an online course run by the Odin project. The assignment is to build the Google chrome webpage using, and expanding on, the basics of HTML/CSS as taught by The Odin Project. For more information, visit http://www.theodinproject.com/courses/web-development-101/lessons/html-css
