@@ -40,10 +40,14 @@
     text-decoration: underline;
 }
 
-.gb_jb {
-    padding-left: 30px;
-    padding-right: 30px;
-    position: relative;
-    text-align: right;
+.push-right {
+    float: right;
 }
 
+.ablock {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:blue;
+}
